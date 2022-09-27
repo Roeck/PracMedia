@@ -88,6 +88,13 @@ body {
   border-radius: 50%;
 }
 
+.create-post {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+
 input,
 textarea {
   font-family: "Nunito", sans-serif;
